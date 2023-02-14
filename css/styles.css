@@ -383,6 +383,7 @@ body {
 .footer-container {
   display: flex;
   gap: 120px;
+  align-items: baseline;
 }
 
 .footer-soc {
